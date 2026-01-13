@@ -86,8 +86,8 @@ pip
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/arbitrage-hunter.git
-   cd arbitrage-hunter
+   git clone https://github.com/indiser/Arbitrage-Hunter.git
+   cd Arbitrage-Hunter
    ```
 
 2. **Install dependencies**
@@ -256,3 +256,4 @@ This project is for **educational and research purposes only**. Use responsibly:
 ---
 
 **Made with ❤️ by a data enthusiast | Last Updated: January 2026**
+
